@@ -34,8 +34,8 @@ To write a program to implement Linear Regression for analyzing and predicting C
 
 ```python
 # Program to implement Linear Regression for analyzing and predicting CO2 Emissions.
-# Developed by: NITHISHWAR P
-# Register Number: 212224060178
+# Developed by: Rakesh Sivan S
+# Register Number: 212224060203
 
 import pandas as pd
 import numpy as np
